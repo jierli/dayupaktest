@@ -1,7 +1,7 @@
 package dayupaktest
 
-var VarName:="dayupakcate"
+var VarName = "dayupakcate"
 
-func FunTest() string  {
+func FunTest() string {
 	return VarName
 }
